@@ -1,3 +1,1 @@
-# sql-challenge
-
-Module 9
+# SQL Database for Human Resources Template
