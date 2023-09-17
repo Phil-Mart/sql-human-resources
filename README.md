@@ -21,6 +21,5 @@ From these schemas, I was able to conduct further anlysis, including: specific h
 ![Screen Shot 2023-09-16 at 9 15 51 PM](https://github.com/Phil-Mart/sql-human-resources/assets/120279988/aee8377e-dc41-4e6d-a299-c259d9adf902)
 
 # Contact:
-PhillipMartinez@my.unt.edu
-
-LinkedIn: https://www.linkedin.com/in/phil-mart/
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
